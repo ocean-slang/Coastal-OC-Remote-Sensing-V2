@@ -4,9 +4,9 @@
 
 #processing Level-1 Landsat-8 and Sentinel-2 images using NASA SeaDAS, CLI
 
-cd /Volumes/harddrive/seadas-7.5.3/ocssw
+cd /Users/sarahlang/Applications/seadas-7.5.3/ocssw
 /Applications/seadas-7.5.3/bin/gpt.command
-export OCSSWROOT=/Volumes/harddrive/seadas-7.5.3/ocssw
+export OCSSWROOT=/Users/sarahlang/Applications/seadas-7.5.3/ocssw
 source OCSSW_bash.env
 install_ocssw.py --git-branch=v7.5 --msis2a --msis2b --curl --src --oli
 
