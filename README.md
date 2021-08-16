@@ -5,9 +5,9 @@ Link to paper:
 
 Overview of workflow:
 1. Download Level-1 Landsat-8 (Collection 1) and Sentinel-2
-2. Process with l2gen in NASA SeaDAS or REMSEM ACOLITE to get Level-2 images
+2. Process with l2gen in NASA SeaDAS or REMSEM ACOLITE to get Level-2 images (use l2genbash or GUI)
 3. Use Level-2 NetCDF images as inputs to MATLAB code. Code extracts data from images and implements ocean color algorithms (eg. Secchi disk depth, Zsd)
-4. Code (R) for modeling and data analysis available. Empirical fit used to improve satellite Secchi depth estimates
+4. R Code (folder: modeling_and_analysis) for modeling and data analysis available. Empirical fit used to improve satellite Secchi depth estimates. Data for Virginia Coast Reserve included as .csv's
 
 Credits:
 bash code for l2gen written by Sarah Lang, with help from NASA OC forum
