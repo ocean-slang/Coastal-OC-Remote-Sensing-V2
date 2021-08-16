@@ -3,7 +3,8 @@ Glover, D. M., Doney, S. C., & Jenkins, W. J. (Eds.). (2011). Least squares and 
 
 MATLAB code written by Sarah Lang (slang@uri.edu)
 
-Modifies Lee et al., 2016 Secchi depth algorithm (https://doi.org/10.1016/j.rse.2016.02.033) by adjusting free parameters
+Modifies Lee et al., 2016 Landsat-8 Secchi depth algorithm (https://doi.org/10.1016/j.rse.2016.02.033) by adjusting free parameters
 
-Note: Procedure might push parameters well outside the plausible range for the original parameters that were developed from mechanistic models of the underwater light field.
-Please use good judgement when implementing this procedure. Use caution, especially if free parameters are shifted a degree of magnitude. 
+Note: Please use good judgement when implementing this procedure. Procedure might push parameters well outside the plausible range for the original parameters that were developed from mechanistic models of the underwater light field. Use caution, especially if free parameters are shifted a degree of magnitude. 
+
+For example, in our case, we found that adjustments for Sentinel-2 were more realistic than Landsat-8. This could be an alternate procedure used in future remote sensing studies to evaluate the applicability of the Lee et al. 2016 model for Sentinel-2.
