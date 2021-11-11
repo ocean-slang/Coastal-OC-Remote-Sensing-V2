@@ -8,9 +8,9 @@ Tools and resources for ocean color remote sensing of the Virginia Coast Reserve
 
 3. **algosMatlab** Use Level-2 NetCDF images as inputs to MATLAB code. Code extracts data from images and implements ocean color algorithms (eg. Secchi disk depth, Zsd). 
 
-3a. **lmnonlinear** Modify Lee et al. 2016 Secchi depth algorithm (https://doi.org/10.1016/j.rse.2016.02.033) using Levenburg-Marquardt algorithm (adjusts free parameters of equation)
+3a. Optional: **lmnonlinear** Modify Lee et al. 2016 Secchi depth algorithm (https://doi.org/10.1016/j.rse.2016.02.033) using Levenburg-Marquardt algorithm (adjusts free parameters of equation, alternative method instead of linear model)
 
-4. **modeling_and_analysis** R code for modeling and data analysis available. Empirical fit used to improve satellite Secchi depth estimates. Data for Virginia Coast Reserve included as .csv's
+4. **modeling_and_analysis** R code for modeling and data analysis available. Empirical (linear) fit used to improve satellite Secchi depth estimates. Data for Virginia Coast Reserve included as .csv's
 
 **Bulk download tools:**
 
