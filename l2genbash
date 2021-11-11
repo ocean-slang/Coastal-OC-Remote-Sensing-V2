@@ -2,7 +2,7 @@
 # https://oceancolor.gsfc.nasa.gov/forum/oceancolor/topic_show.pl?tid=8810
 # https://oceancolor.gsfc.nasa.gov/forum/oceancolor/topic_show.pl?tid=8654
 
-#processing Level-1 Landsat-8 and Sentinel-2 images using NASA SeaDAS, CLI
+#processing Level-1 Landsat-8 and Sentinel-2 images using NASA SeaDAS 7.5.3, CLI
 
 cd /Users/sarahlang/Applications/seadas-7.5.3/ocssw
 /Applications/seadas-7.5.3/bin/gpt.command
