@@ -4,7 +4,7 @@ Tools and resources for ocean color remote sensing of the Virginia Coast Reserve
 **Overview of workflow:**
 1. Download Level-1 Landsat-8 (Collection 1) and Sentinel-2 (bulk download tools available, see below)
 
-2. Process with l2gen in NASA SeaDAS or REMSEM ACOLITE to get Level-2 images (use l2genbash or GUI)
+2. Process with l2gen in NASA SeaDAS or REMSEM ACOLITE to get Level-2 images (use l2genbash or GUI) - please see: https://github.com/ocean-slang/SeaDAS
 
 3. **algosMatlab** Use Level-2 NetCDF images as inputs to MATLAB code. Code extracts data from images and implements ocean color algorithms (eg. Secchi disk depth, Zsd). 
 
