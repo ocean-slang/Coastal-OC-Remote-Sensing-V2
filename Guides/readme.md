@@ -1,3 +1,5 @@
+Processing on the command line in SeaDAS 8.2: please see https://github.com/ocean-slang/SeaDAS
+
 ACOLITE.pdf: how to use ACOLITE's GUI for atmospheric correction instead of NASA SeaDAS
 
 L8S2Processing.pdf: instructions for downloading satellite data (manually), how to process in NASA SeaDAS via command line, and trouble shooting MATLAB scripts if you have issues.
