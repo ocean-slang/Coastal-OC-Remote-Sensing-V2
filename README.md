@@ -1,4 +1,4 @@
-# Modeling Coastal Water Clarity Using Landsat-8 and Sentinel-2 version 1
+# Modeling Coastal Water Clarity Using Landsat-8 and Sentinel-2 version 2 (MOST RECENT)
 Tools and resources for ocean color remote sensing of the Virginia Coast Reserve. Can be modified for your water body of interest. Folder contains code for analysis and modeling, resources, code for processing Level-1 Landsat-8/Sentinel-2 images, etc. 
 
 **Overview of workflow:**
@@ -11,6 +11,7 @@ Tools and resources for ocean color remote sensing of the Virginia Coast Reserve
 3a. Optional: **lmnonlinear** Modify Lee et al. 2016 Secchi depth algorithm (https://doi.org/10.1016/j.rse.2016.02.033) using Levenburg-Marquardt algorithm (adjusts free parameters of equation, alternative method instead of linear model)
 
 4. **modeling_and_analysis** R code for modeling and data analysis available. Empirical (linear) fit used to improve satellite Secchi depth estimates. Data for Virginia Coast Reserve included as .csv's
+data descriptions and code descriptions in that folder
 
 **Bulk download tools:**
 
