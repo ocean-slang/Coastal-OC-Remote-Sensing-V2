@@ -36,3 +36,8 @@ If you have questions, feel free to email me at slang@uri.edu
 If you would be interested in a video tutorial for this procedure, please let me know!
 
 Lang‡, S.E., K.M.A. Luis, S.C. Doney, and M.C.N. Castorani. Modeling coastal water clarity using Landsat-8 and Sentinel-2. In review.
+
+Data:
+Lang, S., O. Cronin-Golomb, and M.C.N. Castorani. 2022. Satellite-based remote sensing of water clarity in the shallow coastal lagoons of Virginia 2013-2021 ver 5. Environmental Data Initiative. https://doi.org/10.6073/pasta/fe66683665a0133b2d831e552ecbae10 (Accessed 2022-12-02).
+
+
