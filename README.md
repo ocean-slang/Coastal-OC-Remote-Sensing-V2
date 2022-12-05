@@ -1,6 +1,9 @@
 # Modeling Coastal Water Clarity Using Landsat-8 and Sentinel-2 version 2 (MOST RECENT)
 Tools and resources for ocean color remote sensing of the Virginia Coast Reserve. Can be modified for your water body of interest. Folder contains code for analysis and modeling, resources, code for processing Level-1 Landsat-8/Sentinel-2 images, etc. 
 
+DATA ACCESS:
+Lang, S., O. Cronin-Golomb, and M.C.N. Castorani. 2022. Satellite-based remote sensing of water clarity in the shallow coastal lagoons of Virginia 2013-2021 ver 5. Environmental Data Initiative. https://doi.org/10.6073/pasta/fe66683665a0133b2d831e552ecbae10 (Accessed 2022-12-02).
+
 **Overview of workflow:**
 1. Download Level-1 Landsat-8 (Collection 1) and Sentinel-2 (bulk download tools available, see below)
 
@@ -38,6 +41,4 @@ If you would be interested in a video tutorial for this procedure, please let me
 Lang‡, S.E., K.M.A. Luis, S.C. Doney, and M.C.N. Castorani. Modeling coastal water clarity using Landsat-8 and Sentinel-2. In review.
 
 Data:
-Lang, S., O. Cronin-Golomb, and M.C.N. Castorani. 2022. Satellite-based remote sensing of water clarity in the shallow coastal lagoons of Virginia 2013-2021 ver 5. Environmental Data Initiative. https://doi.org/10.6073/pasta/fe66683665a0133b2d831e552ecbae10 (Accessed 2022-12-02).
-
 
